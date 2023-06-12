@@ -1,0 +1,23 @@
+.nav{
+    background-color: black;
+    color: white;
+    display: flex;
+    padding: 10px;
+}
+.nav01{
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav02{
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+a{
+    text-decoration: none;
+    color: white;
+    margin-right: 60px;
+}
